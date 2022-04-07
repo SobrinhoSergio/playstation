@@ -36,10 +36,10 @@
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:kennedybarros/repsonsive-website-playstation.git
+$ git clone git@github.com:SobrinhoSergio/playstation.git
 
 # Enter directory
-$ cd repsonsive-website-playstation
+$ cd playstation
 ```
 
 ---
